@@ -1,1 +1,1 @@
-
+delete session creds.json if not yours to make bot active otherwise bot will stuck. alone no connection 
